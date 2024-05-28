@@ -32,10 +32,6 @@ To optimize your experience with the chatbot, consider the following tips:
 - If you encounter unusual or incomplete responses, adjust the prompt accordingly or append phrases like "explain," "explain in detail," or "elaborate."
 - Keep in mind that while the responses may not be perfect, the chatbot adeptly extracts and abstracts information from provided context.
 
-## Future Updates
-In future updates, the following enhancements are planned:
-- Integration of additional sources to the app for locating document chunks used by the model for generating responses.
-- Continuous improvements to enhance conversational performance and reduce response times.
 
 ## Acknowledgments
 
